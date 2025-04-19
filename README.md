@@ -1,2 +1,1 @@
-
-This is a project to demonstate how the consensus mechanism Proof-of-Work does function. It is not totalle acurate but still demonstrates what happens in the backround while you are mining crypto like btc. 
+This project is all about the mechanisms behind cryptocurrencys. Because these mechanism sometimes are difficult to understand. I build them in Python. All of them are simplified so no comparision to the real world. 

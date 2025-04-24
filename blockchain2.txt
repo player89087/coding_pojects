@@ -1,1 +1,0 @@
-Block    4       Block_Hash    0000b65ad1f6806ddfaf6305e38eb9f09cb34ff07a067a06b4321638735a4850      transaction    Y has sent L 2 BTC 48933   
